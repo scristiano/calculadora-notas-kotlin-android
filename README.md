@@ -8,6 +8,6 @@ Caso a média das duas notas seja maior ou igual a 6 e a quantidade de faltas se
 
 ![Exemplo Aluno Aprovado](./images/aprovado.png)
 
-Caso contrário, o aluno é repsovado
+Caso contrário, o aluno é reprovado
 
 ![Exemplo Aluno Reprovado](./images/reprovado.png)
